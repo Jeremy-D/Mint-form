@@ -158,11 +158,11 @@ li {
 	margin:0 auto;
 }
 #links{
-	position:relative;
+	position:;
 	display: block;
 	padding-top:80px;
 	padding-bottom: 70px;
-	background:#fff;
+	background:;
 	text-align:center;
 	font-family: "Helvetica Neue", Helvetica, Arial;
 	font-size:;
@@ -173,7 +173,7 @@ li {
 	color:#bbb;
 	text-align: center;
 	margin:0 auto;
-	left:120px;
+	left:px;
 	font-size:10pt;
 }
 #disclaimer{
@@ -201,7 +201,7 @@ li {
 	display: flex;
   	justify-content: center;
   	align-items: center; 
-  	left:40px;
+  	left:px;
 }
 
 .security_logo {
@@ -231,7 +231,7 @@ li {
 	width:80%;
 	text-align:center;
 	top:120px;
-	left:120px;
+	left:80px;
 }
 
 
